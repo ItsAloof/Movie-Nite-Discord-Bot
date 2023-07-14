@@ -17,7 +17,7 @@ Returns an AI generated face.
 ## TODO
 This is a list of potential features which will evolve with time.
 - [ ] Website
-- A websitefor the bot along with an alternative way to make media queries along withh viewing personal data.
+- A website for the bot along with an alternative way to make media queries along withh viewing personal data.
 - [ ] AI Suggestions
 - The ability to get suggestions from AI such as ChatGPT.
 - [ ] Refine Bot overall
